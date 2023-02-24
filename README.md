@@ -15,6 +15,6 @@
 <br>
 ![dashboard](https://user-images.githubusercontent.com/67157274/221092448-d85f4ae4-ca57-4f8e-97a8-5b221907baf2.PNG)
 
-<br><br>
+<br>
 ## SQL Queries:
 **Link:** https://github.com/dibyendubiswas1998/Sales-Insights/tree/main/SQL%20Queries
