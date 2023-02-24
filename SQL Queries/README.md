@@ -33,4 +33,6 @@ The final output contains these fields:
 
 * **20.** List top 10 customer name who get more profit_margin_percentage.
 * **21.** Which customer ordered more (list top 10) in year 2017, 2018, 2019, 2020.
+* **22.** Create a Stored Procedure and extract the total_revenue, total_profit, market & year wise. (send the input as market_name, year and get the output as market_name, year, total_revenue, total_profit).
 
+<hr>
